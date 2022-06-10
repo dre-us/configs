@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/dreus'
+let g:netrw_dirhist_7='/home/dreus/Sites/CTP/ctp/src/main/java/com/unal/edu/co/ctp'
+let g:netrw_dirhist_6='/home/dreus/Sites/CTP/ctp/src/main/java/com/unal/edu/co'
+let g:netrw_dirhist_5='/home/dreus/Sites/CTP/ctp/src/main/java/com/unal/edu'
+let g:netrw_dirhist_4='/home/dreus/Sites/CTP/ctp/src/main/java/com/unal'
+let g:netrw_dirhist_3='/home/dreus/Sites/CTP/ctp/src/main/java/com'
+let g:netrw_dirhist_2='/home/dreus/Sites/CTP/ctp/src/main/java'
+let g:netrw_dirhist_1='/home/dreus/Sites/CTP/ctp/src/main'
+let g:netrw_dirhist_0='/home/dreus/Sites/CTP/ctp/src'
+let g:netrw_dirhist_9='/home/dreus/Sites/CTP/ctp'
